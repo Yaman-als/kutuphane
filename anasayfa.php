@@ -256,12 +256,6 @@ if ($_SESSION["gir"] == 1){
                     </table>
                 </div>
             </div>
-            <div>
-                <!-- Footer -->
-                <footer class="main" style="position: absolute; bottom: 5px;">
-                    &copy; 2018 <strong>Kütüphane</strong> Erkan TEMEL tarafından yapılmıştır.
-                </footer>
-            </div>
         </div>
     </div>
     <!-- Modal 6 (Responsive Modal)-->
